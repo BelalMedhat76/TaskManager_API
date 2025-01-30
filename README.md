@@ -25,7 +25,7 @@ It allows users to **add, update, mark as complete, and delete tasks**.
 - **Mongoose** – ODM for MongoDB
 
 ### **Frontend (Next.js)**
-- **Next.js 13+ (App Router)**
+- **Next.js  (App Router)**
 - **React.js** – Frontend library
 - **Tailwind CSS** – Styling
 - **Framer Motion** – Animations
