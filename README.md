@@ -7,7 +7,7 @@ It allows users to **add, update, mark as complete, and delete tasks**.
 ✅ Add,Delete, and Complete Tasks  
 ✅ RESTful API with **Node.js & Express.js**  
 ✅ Frontend built with **Next.js** (React framework)  
-✅ Database powered by **MongoDB (Atlas)**  
+✅ Database powered by **MongoDB (Compase)**  
 ✅ **Responsive UI** with modern design & animations  
 ✅ Deployed on **Vercel (Frontend)** & **Render (Backend)**  
 
